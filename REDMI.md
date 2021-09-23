@@ -1,0 +1,1 @@
+This is Ivanovichenco's first git project.'
